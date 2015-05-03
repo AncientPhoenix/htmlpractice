@@ -1,2 +1,2 @@
-# htmlpractice.github.io
+# htmlpractice
 Just Me And My Code
